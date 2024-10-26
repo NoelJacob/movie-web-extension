@@ -20,3 +20,7 @@ relayMessage({
 relayMessage({
   name: 'openPage',
 });
+
+relayMessage({
+  name: 'startDownload',
+});
